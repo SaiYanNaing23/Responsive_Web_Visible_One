@@ -1,0 +1,28 @@
+
+
+@media (max-width: 575.98px) { 
+    .extra-small-hero-title{
+        top: 0;
+        left: 0; 
+    }
+    .extra-small-hero-title h1 h2 p button {
+        font-size: 14px;
+    }
+    .extra-small-trending-card{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .extra-small-happening{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .extra-small-footer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        column-gap: 32px;
+    }
+}
