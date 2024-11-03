@@ -3,7 +3,7 @@ import React from 'react'
 const HappeningNow = () => {
   return (
     <div className='py-[64px] max-w-[1200px] mx-auto ' >
-        <div className=' sm:px-[32px] font-bold flex justify-between text-black mb-4 w-full md:px-0 lg:mx-5 xl:mx-0 md:mx-5 ' >
+        <div className='happening_now_title sm:px-[32px] font-bold flex justify-between text-black mb-4 w-full md:px-0 lg:mx-5 xl:mx-0 md:mx-5 ' >
           <h1 className='text-xl' >HAPPENING NOW</h1>
           <div className='flex gap-10 lg:mr-10 xl:mr-0 md:mr-10 ' >
                 <svg className='cursor-pointer hover:text-black ' xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"><path fill="currentColor" d="M10 22L0 12L10 2l1.775 1.775L3.55 12l8.225 8.225z"/></svg>
@@ -53,7 +53,7 @@ const HappeningNow = () => {
                     </div>
                 </div>
             </div>
-            <div className='w-[35%]' >
+            <div className='w-[35%]  ' >
                 <div>
                     <img src="/happen3.jpg" className='w-full !h-[230px] mt-0 ' alt="happen3" />
                     <h2 className='text-black font-bold text-lg mt-5 ' >Small Title</h2>

@@ -3,7 +3,7 @@ import React from 'react'
 const Trending = () => {
   return (
     <div className='py-[32px] max-w-[1200px] xl:mx-auto lg:mx-5 ' >
-        <div className=' sm:px-[32px] font-bold flex justify-between text-black mb-4 w-full md:px-0 ' >
+        <div className='trending_label sm:px-[32px] font-bold flex justify-between text-black mb-4 w-full md:px-0 ' >
           <h1 className='text-xl' >TRENDING</h1>
           <div className='flex gap-10' >
                 <svg className='cursor-pointer hover:text-black ' xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"><path fill="currentColor" d="M10 22L0 12L10 2l1.775 1.775L3.55 12l8.225 8.225z"/></svg>

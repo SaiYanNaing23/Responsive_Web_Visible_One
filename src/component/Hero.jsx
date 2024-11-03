@@ -20,7 +20,7 @@ const Hero = () => {
         </div>
        
       
-      <div className=' w-full sm:mt-5 sm:mx-[18px] md:mt-5 z-10 relative xl:mx-[100px] xl:py-[80px] lg:mx-[70px] lg:py-[20px] ' >
+      <div className='more_news_media w-full sm:mt-5 sm:mx-[18px] md:mt-5 z-10 relative xl:mx-[100px] xl:py-[80px] lg:mx-[70px] lg:py-[20px] ' >
         <div className='flex items-center justify-between border-b pb-10 border-[#706f6f80] ' >
             <h1 className='font-bold text-black text-2xl lg:text-xl ' >MORE NEWS</h1>
             <div className='flex gap-5 md:mr-[50px] lg:mr-0 xl:mr-0 2xl:mr-0  ' >
